@@ -645,9 +645,7 @@ const MainContent = ({ darkMode }) => {
                 <a href="mailto:marion@example.com" className="btn btn-primary">
                   <i className="bi bi-envelope me-2"></i> Email
                 </a>
-                <a href="https://instagram.com/marion.official" className="btn btn-instagram" target="_blank" rel="noreferrer">
-                  <i className="bi bi-instagram me-2"></i> Instagram
-                </a>
+                
                 <a href="tel:+254110928039" className="btn btn-secondary">
                   <i className="bi bi-telephone me-2"></i> Call Me
                 </a>
